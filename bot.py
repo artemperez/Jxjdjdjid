@@ -28,8 +28,8 @@ ADMIN_IDS = [OWNER_ID]
 
 # Обязательные каналы для подписки
 REQUIRED_CHANNELS = [
-    {"username": "@Manuals_and_softs", "title": "Manuals and softs🔫", "link": "https://t.me/+uzhF2YtokTo2ZjBi"},
-    {"username": "@Chat_zaisa", "title": "Чат зайса)", "link": "https://t.me/+JjhrjbcMMso2MGQy"}
+    {"username":"Manuals and softs🔫", "link": "https://t.me/+uzhF2YtokTo2ZjBi"},
+    {"username":"Чат зайса)", "link": "https://t.me/+JjhrjbcMMso2MGQy"}
 ]
 
 # Все приватные каналы
